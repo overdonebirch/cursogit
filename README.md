@@ -3,3 +3,5 @@
 
 
 mostrando pull con rebase y sin rebase
+
+prueba de conlicto en pull en remoto
